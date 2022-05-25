@@ -2,7 +2,7 @@
 
 ## O que é IoT?
 
-Éo termo que se refere a interconexão digital de objetos cotidianos com a internet, conexão dos objetos mais do que das pessoas, ou seja, é uma rede de objetos físicos capaz de reunir e retransmitir dados
+É o termo que se refere a interconexão digital de objetos cotidianos com a internet, conexão dos objetos mais do que das pessoas, ou seja, é uma rede de objetos físicos capaz de reunir e retransmitir dados
 
 ## Referências
 
