@@ -56,6 +56,9 @@ _A capacidade de processar esses dados gera vantagens competitivas._
 
 #### Diferenciando ERP, CRM, WEB e Big Data
 
+![](./erp-bigdata.jpg)
+_Fonte: Apostila Big Data - Unidade 01 - Universidade Cruzeiro do Sul_
+
 ERP (Enterprise Resource Planning):
 
 O Planejamento de Recursos Empresariais, ou ERP, refere-se a um sistema de informação que conecta, em um único sistema, **processos e dados** de uma organização, interligando o sistema de diferentes departamentos como:
@@ -105,4 +108,4 @@ No mercado financeiro uma "velocidade baixa" poderia resultar em prejuízos fina
 - [Big data vs CRM](https://canaltech.com.br/big-data/CRM-e-BIG-Data-qual-a-diferenca/)
 - [WEB - Wikipedia](https://pt.wikipedia.org/wiki/World_Wide_Web)
 - [Os três V's do Big Data](https://blogs.oracle.com/health-sciences/post/the-three-vx27s-of-big-data-volume-velocity-and-variety#:~:text=The%20Three%20V's%20of%20Big%20Data%3A%20Volume%2C%20Velocity%2C%20and%20Variety)
-- Apostila Big Data - Unidade 02 - Universidade Cruzeiro do Sul
+- Apostila Big Data - Unidade 01 - Universidade Cruzeiro do Sul
