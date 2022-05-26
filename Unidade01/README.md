@@ -57,6 +57,7 @@ _A capacidade de processar esses dados gera vantagens competitivas._
 #### Diferenciando ERP, CRM, WEB e Big Data
 
 ![](./erp-bigdata.jpg)
+
 _Fonte: Apostila Big Data - Unidade 01 - Universidade Cruzeiro do Sul_
 
 ERP (Enterprise Resource Planning):
