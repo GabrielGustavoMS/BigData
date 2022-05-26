@@ -78,3 +78,15 @@ Normalmente é aplicada para:
 - segurança física,
 - monitoramento de tráfego,
 - veicular ou médico
+
+## Unidade Anterior
+
+[](../Unidade01/)
+
+## Próxima Unidade
+
+[](../Unidade03/)
+
+## Referências
+
+- Apostila Big Data - Unidade 02 - Universidade Cruzeiro do Sul

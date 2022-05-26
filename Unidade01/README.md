@@ -95,10 +95,14 @@ Em Big Data, a velociade é um fator crítico, pois há casos em se necessita pr
 
 No mercado financeiro uma "velocidade baixa" poderia resultar em prejuizos financeiros, enquanto na saúde, na morte de um paciente. O conceito de velociadade é aplicado principalmente para medir a taxa de transfêrencia, mas também a recuperação dos dados, armazenamento e crescimento dos dados.
 
+## Próxima Unidade
+
+[](../Unidade02/)
+
 ## Referências
 
 - [CRM - Wikipedia](https://pt.wikipedia.org/wiki/Gest%C3%A3o_de_relacionamento_com_o_cliente)
 - [Big data vs CRM](https://canaltech.com.br/big-data/CRM-e-BIG-Data-qual-a-diferenca/)
 - [WEB - Wikipedia](https://pt.wikipedia.org/wiki/World_Wide_Web)
 - [Os três V's do Big Data](https://blogs.oracle.com/health-sciences/post/the-three-vx27s-of-big-data-volume-velocity-and-variety#:~:text=The%20Three%20V's%20of%20Big%20Data%3A%20Volume%2C%20Velocity%2C%20and%20Variety)
-- Apostila Big Data Universidade Cruzeiro do Sul
+- Apostila Big Data - Unidade 02 - Universidade Cruzeiro do Sul

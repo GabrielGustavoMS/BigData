@@ -68,3 +68,4 @@ _Fonte: Apostila Big Data - Unidade 04 - Universidade Cruzeiro do Sul_
 
 - [Iot - Wikipedia](https://pt.wikipedia.org/wiki/Internet_das_coisas)
 - [Computação Ubíqua - Wikipedia](https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_ub%C3%ADqua)
+- Apostila Big Data - Unidade 04 - Universidade Cruzeiro do Sul

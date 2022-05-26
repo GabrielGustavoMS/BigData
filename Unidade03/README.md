@@ -106,3 +106,15 @@ Existem os seguintes tipos de nuvens:
 - **Privada:** Recusos hospedados dentro da própria empresa ou em infra alugada ou comprada, uso exclusivo de uma organização
 - **Comunitária:** Recursos compartilhados entre organizações com interesses em comum
 - **Híbrida:** Quando empresa usa 1 camada de software que permite usar ao menos 2 modelos anteriores
+
+## Unidade Anterior
+
+[](../Unidade02/)
+
+## Próxima Unidade
+
+[](../Unidade03/)
+
+## Referências
+
+- Apostila Big Data - Unidade 03 - Universidade Cruzeiro do Sul
