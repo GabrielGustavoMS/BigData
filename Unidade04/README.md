@@ -43,6 +43,27 @@ IoT se refere a próxima geração da internet, onde praticamente todas as coisa
 3. Os dados são enviados ao sistema de gerenciamento de informação e são processados. Durante o processamento, novos dados são obtidos via internet, esse podem ser relacionados aos dados iniciais ou aos dispositivos de origem.
 4. Como resultado do processamento, obtem-se alguma intervenção no ambiente físico onde oos dispositivos estão presentes, ou nos próprios dispositivos.
 
+## Big Data e Aplicações IoT
+
+Considera-se em IoT, uma grande rede com muitos nós de onde os dados serão originados. Esse volume de dados será processado por camadas intermediárias (middleware) que tratarão os dados e assim, poderá se obter informações em aplicações com interfaces compreensíveis ao usuário final.
+
+Desse modo, tem-se a seguinte arquitetura:
+
+![](./arquiteturaIot.jpg)
+
+_Fonte: Apostila Unidade 04 - Big Data - Universidade Cruzeiro do Sul_
+
+| Principais Aplicações IoT      |
+| ------------------------------ | ----------------------------------------------------------------------- |
+| Casas inteligente              | Compras automatizadas                                                   |
+| Vida assistida                 | Logística inteligente                                                   |
+| Aplicações médicas             | Monitoramento de vida animal                                            |
+| Indústrias inteligentes        | Cenários para estimação, alertas e recuperação de desastres naturais    |
+| Segurança e controle de acesso | Uso de energia elétrica, água e/ou gás                                  |
+| Carros inteligentes            | Ambientes inteligentes com monitoramento e controle de gasto de energia |
+| Tráfego inteligente            | Sistemas de entretenimento inteligente                                  |
+| Cidades inteligentes           | Sistemas para agricultura inteligente                                   |
+
 ## Referências
 
 - [Iot - Wikipedia](https://pt.wikipedia.org/wiki/Internet_das_coisas)
