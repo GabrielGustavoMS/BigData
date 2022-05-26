@@ -41,7 +41,7 @@ IoT se refere a próxima geração da internet, onde praticamente todas as coisa
 1. Os dados são gerados por dispositivos físicos
 2. Os dados são capturados por dispositivos chamados de interrogador ou gateway
 3. Os dados são enviados ao sistema de gerenciamento de informação e são processados. Durante o processamento, novos dados são obtidos via internet, esse podem ser relacionados aos dados iniciais ou aos dispositivos de origem.
-4. Como resultado do processamento, obtem-se alguma intervenção no ambiente físico onde oos dispositivos estão presentes, ou nos próprios dispositivos.
+4. Como resultado do processamento, obtêm-se alguma intervenção no ambiente físico onde os dispositivos estão presentes, ou nos próprios dispositivos.
 
 ## Big Data e Aplicações IoT
 
@@ -63,6 +63,10 @@ _Fonte: Apostila Big Data - Unidade 04 - Universidade Cruzeiro do Sul_
 | Carros inteligentes            | Ambientes inteligentes com monitoramento e controle de gasto de energia |
 | Tráfego inteligente            | Sistemas de entretenimento inteligente                                  |
 | Cidades inteligentes           | Sistemas para agricultura inteligente                                   |
+
+## Unidade Anterior
+
+[](../Unidade03/)
 
 ## Referências
 

@@ -36,7 +36,7 @@ _Classifica-se uma infraestrutura como nuvem somente quando essa possui as segui
 
 - **Gerenciamento simplificado de infraestrutura**: Quando uma organização usa serviços em nuvem, suas tarefas de gerenciamento de infraestrutura são reduzidas para administrar apenas os recursos necessários para acessar os serviços em nuvem.
 
-- **Mascaramento da complexibilidade**: Em cloud, o nível de complexidade de um serviço pode aumentar sem que isso fique aparente ao usuário final, já qua a complexidade é mascarada. Serviços de impressora, por exemplo, podem ser implementados em nuvem e assim o usuário final não necessariamente precisará instalar drivers para utilizá-los.
+- **Mascaramento da complexibilidade**: Em cloud, o nível de complexidade de um serviço pode aumentar sem que isso fique aparente ao usuário final, já que a complexidade é mascarada. Serviços de impressora, por exemplo, podem ser implementados em nuvem e assim o usuário final não necessariamente precisará instalar drivers para utilizá-los.
 
 ### Modelos de Computação em Nuvem e Big Data
 
@@ -67,7 +67,7 @@ Cobrança:
 - Localização do Data center
 - Custo por hora de processamento
 - Armazenamento
-- Transferencia de dados
+- Transferência de dados
 
 #### Plataforma como Serviço (PaaS)
 
@@ -88,7 +88,7 @@ Cobrança:
 
 #### Software como Serviço (SaaS)
 
-Nesse modelo, o cliente tem um software como serviço.É um modelo antigo que surgiu com arquitetura cliente servidor.
+Nesse modelo, o cliente tem um software como serviço. É um modelo antigo que surgiu com arquitetura cliente servidor.
 
 Exemplos:
 
@@ -103,7 +103,7 @@ Cobrança: Custo por usuário
 Existem os seguintes tipos de nuvens:
 
 - **Pública:** Recursos compartilhados entre clientes
-- **Privada:** Recusos hospedados dentro da própria empresa ou em infra alugada ou comprada, uso exclusivo de uma organização
+- **Privada:** Recursos hospedados dentro da própria empresa ou em infra alugada ou comprada, uso exclusivo de uma organização
 - **Comunitária:** Recursos compartilhados entre organizações com interesses em comum
 - **Híbrida:** Quando empresa usa 1 camada de software que permite usar ao menos 2 modelos anteriores
 

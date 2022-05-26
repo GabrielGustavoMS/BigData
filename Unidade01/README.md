@@ -9,13 +9,13 @@ Alternativas para processar Big Data
 1. Massive Parallel Processing databases (MPP)
 2. Grids de mineração de dados
 3. Sistemas de arquivo distribuídos
-4. Plataformas de computalção em nuvem
+4. Plataformas de computação em nuvem
 5. Redes de comunicação
-6. Sitemas de armazenamento escaláveis
+6. Sistemas de armazenamento escaláveis
 
 ## Os V's do Big Data
 
-São características que diferem Big Data dos demais conjuntos de dados. Há 3 pricipais:
+São características que diferem Big Data dos demais conjuntos de dados. Há 3 principais:
 
 1. Volume
 2. Variedade
@@ -29,7 +29,7 @@ Pode-se citar como principais motivos:
 2. Aumento da produção de dados
 3. Surgimento de novas fontes de dados (Internet das Coisas)
 
-Onde Bigdata está presente:
+Onde Big Data está presente:
 
 - Redes Sociais
 - Aplicações científicas
@@ -91,9 +91,9 @@ O termo _Big data_ é usado para se referir a área do conhecimento que os trata
 
 ### Velocidade
 
-Em Big Data, a velociade é um fator crítico, pois há casos em se necessita processar grandes conjuntos de dados ao mesmo tempo em que esses estão sendo gerados. Isso ocorre principalmente pela necessidade de tomar decisões o mais rápido possível, em cenários em que os dados crescem e variam muito, como o mercado financeiro e na saúde.
+Em Big Data, a velocidade é um fator crítico, pois há casos em se necessita processar grandes conjuntos de dados ao mesmo tempo em que esses estão sendo gerados. Isso ocorre principalmente pela necessidade de tomar decisões o mais rápido possível, em cenários em que os dados crescem e variam muito, como o mercado financeiro e na saúde.
 
-No mercado financeiro uma "velocidade baixa" poderia resultar em prejuizos financeiros, enquanto na saúde, na morte de um paciente. O conceito de velociadade é aplicado principalmente para medir a taxa de transfêrencia, mas também a recuperação dos dados, armazenamento e crescimento dos dados.
+No mercado financeiro uma "velocidade baixa" poderia resultar em prejuízos financeiros, enquanto na saúde, na morte de um paciente. O conceito de velocidade é aplicado principalmente para medir a taxa de transferência, mas também a recuperação dos dados, armazenamento e crescimento dos dados.
 
 ## Próxima Unidade
 

@@ -6,7 +6,7 @@ Relaciona-se a confiabilidade dos dados e possui 3 principais características
 
 1. Qualidade: inclui limpeza, acurácia e consistência dos dados
 2. Origem: A fonte de dados é confiável?
-3. Utilizaçãoz: Os níveis de confiança são aceitáveis para o negócio?
+3. Utilização: Os níveis de confiança são aceitáveis para o negócio?
 
 ## Valor
 
@@ -39,7 +39,7 @@ Os dados desse tipo de fonte originam-se de:
 
 - Blogs, Tweets, sites de redes sociais
 - Feed de Notícias
-- Forúns de discussão
+- Fóruns de discussão
 
 _Alguns possuem uma API específica, para o resgate de metadados_
 
