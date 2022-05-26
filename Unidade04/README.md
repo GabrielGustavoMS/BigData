@@ -51,7 +51,7 @@ Desse modo, tem-se a seguinte arquitetura:
 
 ![](./arquiteturaIot.jpg)
 
-_Fonte: Apostila Unidade 04 - Big Data - Universidade Cruzeiro do Sul_
+_Fonte: Apostila Big Data - Unidade 04 - Universidade Cruzeiro do Sul_
 
 | Principais Aplicações IoT      | Exemplos                                                                |
 | ------------------------------ | ----------------------------------------------------------------------- |
