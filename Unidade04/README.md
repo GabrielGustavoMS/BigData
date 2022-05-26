@@ -66,7 +66,7 @@ _Fonte: Apostila Big Data - Unidade 04 - Universidade Cruzeiro do Sul_
 
 ## Unidade Anterior
 
-[](../Unidade03/)
+[](../Unidade03)
 
 ## Referências
 
