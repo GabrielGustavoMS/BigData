@@ -9,7 +9,9 @@ IoT é definida como uma infraestrutura de rede global, interconectando física 
 ## Ecossistema de IoT proposto pelo Itu-T
 
 ![](./ecossistemaItu.jpg)
+
 _Modelo de ecossistema para IoT proposto por ITU-T (2005)_
+
 _Fonte: ITU-T (2005)_
 
 - **Device Provider**: é responsável pelo fornecimento de dados brutos e/ou o conteúdo para provedores de rede e provedores de aplicação, de acordo com a lógica de negócio
