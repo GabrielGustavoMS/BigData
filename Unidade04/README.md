@@ -53,7 +53,7 @@ Desse modo, tem-se a seguinte arquitetura:
 
 _Fonte: Apostila Unidade 04 - Big Data - Universidade Cruzeiro do Sul_
 
-| Principais Aplicações IoT      |
+| Principais Aplicações IoT      | Exemplos                                                                |
 | ------------------------------ | ----------------------------------------------------------------------- |
 | Casas inteligente              | Compras automatizadas                                                   |
 | Vida assistida                 | Logística inteligente                                                   |
