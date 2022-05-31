@@ -30,7 +30,7 @@ _Classifica-se uma infraestrutura como nuvem somente quando essa possui as segui
 
 - **Escalabilidade**: Os clientes podem escalar / aumentar recursos de acordo com a necessidade.
 
-- **Flexibilidade de acesso**: Os recursos computacionais em cloud podem acessados por qualquer dispositivo conectado à internet.
+- **Flexibilidade de acesso**: Os recursos computacionais em cloud podem ser acessados por qualquer dispositivo conectado à internet.
 
 - **Desenvolvimento e teste de aplicativos**: A infraestrutura em cloud permite desenvolvimento e testes de aplicativos de forma menos burocrática e mais rápida que as convencionais.
 
