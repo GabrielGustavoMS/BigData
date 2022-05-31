@@ -8,7 +8,7 @@ _Classifica-se uma infraestrutura como nuvem somente quando essa possui as segui
 
 ### Características Essenciais à Computação em Nuvem
 
-- **On-demand self-service**: Auto-provisionamento é a implantação de recursos e / ou serviços em nuvem pelo próprio cliente de acordo com sua demanda, sem a necessidade de interação humana com funcionários da empresa de cloud. Normalmente ocorre através de dashboards.
+- **On-demand self-service**: Auto-provisionamento é a implantação de recursos e / ou serviços em nuvem pelo próprio cliente de acordo com sua demanda, sem a necessidade de interação humana com funcionários da empresa de cloud. Normalmente, ocorre através de dashboards.
 
 - **Acesso através da rede**: Os clientes devem poder acessar os recursos via internet, por qualquer dispositivo.
 
